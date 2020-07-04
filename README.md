@@ -1,1 +1,1 @@
-AuthenticationSamplesNetCore31
+AuthenticationSampleCore31
